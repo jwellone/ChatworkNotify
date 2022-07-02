@@ -1,0 +1,16 @@
+{
+    "name": "jwellone.ChatworkNotify.Sample.Scripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c53b5b3451e6947628b1c4fbdf16dd60"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
