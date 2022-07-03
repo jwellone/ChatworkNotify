@@ -7,7 +7,7 @@
 
 
 # ChatworkNotify
-Can use the ChatWork API to send and retrieve information to a specified room.
+Can use the ChatWork API to send and retrieve information to a selected room.
 
 This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
